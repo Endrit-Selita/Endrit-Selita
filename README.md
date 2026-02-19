@@ -1,6 +1,6 @@
 # Hi, I'm Endrit Selita 👋
 
-I am a London-based **DevOps & Cloud Infrastructure Engineer** focused on building resilient, scalable, and fully automated cloud-native solutions. I specialise in architecting AWS environments using Infrastructure as Code (Terraform) and advanced container orchestration.
+I am a **DevOps & Cloud Infrastructure Engineer** focused on building resilient, scalable, and fully automated cloud-native solutions. I specialise in architecting AWS environments using Infrastructure as Code (Terraform) and advanced container orchestration.
 
 ### 🛠 Tech Stack & Skills
 
